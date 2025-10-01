@@ -1,7 +1,6 @@
 "use client";
+import Button from "@mui/material/Button";
 import { styled } from "@mui/material/styles";
-
-import { Button } from "@mui/material";
 
 export const ButtonComponent = styled(Button)({
   width: "fit-content",
