@@ -1,5 +1,9 @@
-import styles from "./page.module.css";
+import { ComingSoonSection } from "@/section/comingSoon/comingSoonSection";
 
 export default function Home() {
-  return <div className={styles.page}></div>;
+  return (
+    <main style={{ width: "100%" }}>
+      <ComingSoonSection />
+    </main>
+  );
 }
