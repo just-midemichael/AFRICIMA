@@ -21,7 +21,7 @@ export const Header = () => {
             <HeaderLogo
               src="/logoBlack.svg"
               alt="africima primary logo"
-              width={120}
+              width={140}
               height={40}
               style={{ objectFit: "contain" }}
             />

@@ -26,6 +26,7 @@ export const ComingSoonSection = () => {
             style={{
               color: appStyle.headerTitleColor,
               fontWeight: appStyle.appGlobalTitleFontWeight,
+              textAlign: "center",
             }}
           >
             {comingSoon.bigText}
