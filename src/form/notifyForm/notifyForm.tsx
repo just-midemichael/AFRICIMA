@@ -62,7 +62,7 @@ export const NotifyForm = () => {
               minWidth: "100%",
               color: "#fff",
               textTransform: "capitalize",
-              fontSize: "1.0rem",
+              fontSize: "0.90rem",
               fontWeight: 400,
             }}
             type="submit"
