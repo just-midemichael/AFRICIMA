@@ -20,7 +20,7 @@ export const Header = () => {
           <HeaderLogoBox onClick={() => router.push("/")}>
             <HeaderLogo
               src="/logoBlack.svg"
-              alt="africima primary logo"
+              alt="Africima"
               width={140}
               height={40}
               style={{ objectFit: "contain" }}
