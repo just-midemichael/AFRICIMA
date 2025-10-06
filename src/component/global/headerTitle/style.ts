@@ -2,7 +2,7 @@
 import Box from "@mui/material/Box";
 import { styled } from "@mui/material/styles";
 
-export const H = styled(Box)({
+export const H = styled("h1")({
   fontSize: "4.4rem",
   display: "flex",
   fontWeight: 600,
