@@ -32,7 +32,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Africima | Africima Limited ",
   description:
-    "Africima is a business development firm that leverages creativity and innovation to deliver sustainable, efficient solutions across sectors. ",
+    "Africima is a business development firm leveraging creativity and innovation to deliver sustainable, efficient solutions across sectors in Africa.",
 };
 
 export default function RootLayout({
