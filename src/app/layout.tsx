@@ -31,7 +31,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title:
-    "Africima | Africima Limited | Creating and Reshaping a Better Africa | African Creative and Intellectual Minds Arena",
+    "Africima | Africima Limited | African Creative and Intellectual Minds Arena",
   description:
     "Africima is a business development firm that leverages creativity and innovation to deliver sustainable, efficient solutions across sectors. ",
 };
