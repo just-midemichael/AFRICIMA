@@ -7,3 +7,8 @@ export default function Home() {
     </main>
   );
 }
+
+export const metadata = {
+  title: "Homepage | Africima",
+  description: "Welcome to Africima",
+};
