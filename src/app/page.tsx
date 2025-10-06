@@ -9,6 +9,6 @@ export default function Home() {
 }
 
 export const metadata = {
-  title: "Africima | Creating and Reshaping a Better Africa",
-  description: "Welcome to Africima Official website",
+  title: "Africima",
+  description: "Welcome to Africima Official Website",
 };
