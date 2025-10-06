@@ -30,8 +30,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Africima",
-  description: "Welcome to Africima Official website",
+  title:
+    "Africima | Africima Limited | Creating and Reshaping a Better Africa | African Creative and Intellectual Minds Arena",
+  description:
+    "Africima is a business development firm that leverages creativity and innovation to deliver sustainable, efficient solutions across sectors. ",
 };
 
 export default function RootLayout({
