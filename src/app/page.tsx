@@ -2,9 +2,14 @@ import { ComingSoonSection } from "@/section/comingSoon/comingSoonSection";
 
 export default function Home() {
   return (
-    <main style={{ width: "100%" }}>
-      <ComingSoonSection />
-    </main>
+    <>
+      <head>
+        <link rel="canonical" href="https://www.africima.com/" />
+      </head>
+      <main style={{ width: "100%" }}>
+        <ComingSoonSection />
+      </main>
+    </>
   );
 }
 
