@@ -3,7 +3,6 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Creating and Reshaping a Better Africa",
-  description: "Welcome to Africima Official Website",
 };
 
 export default function Home() {
