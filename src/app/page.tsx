@@ -2,7 +2,7 @@ import { ComingSoonSection } from "@/section/comingSoon/comingSoonSection";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Creating and Reshaping a Better Africa",
+  title: "Africima | Creating and Reshaping a Better Africa",
 };
 
 export default function Home() {
