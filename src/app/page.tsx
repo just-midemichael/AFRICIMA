@@ -1,4 +1,10 @@
 import { ComingSoonSection } from "@/section/comingSoon/comingSoonSection";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Creating and Reshaping a Better Africa",
+  description: "Welcome to Africima Official Website",
+};
 
 export default function Home() {
   return (
@@ -7,8 +13,3 @@ export default function Home() {
     </main>
   );
 }
-
-export const metadata = {
-  title: "Africima | Creating and Reshaping a Better Africa",
-  description: "Welcome to Africima Official Website",
-};
